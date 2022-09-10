@@ -44,17 +44,6 @@ html{
   height:40vh;
 }
 
-/* input{
-   color:black;
-   background-color:rgb(247, 240, 233);
-   border-radius:20%;
-   
-}
-
-label{
-  font-size: larger;
-} */
-
 .inputs{
   padding: 15px;
   font-size: 16px;
@@ -95,4 +84,19 @@ label{
   color:white;
   font-size:20px;
   margin: 16px 0px;
+}
+
+.text{
+   font-size:30px;
+
+}
+
+p{
+  font-size:30px;
+  color:black;
+}
+
+.footer{
+  background-color:rgb(253, 223, 211);
+  margin:
 }
