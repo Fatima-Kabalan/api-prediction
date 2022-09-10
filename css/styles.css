@@ -65,7 +65,7 @@ label{
   width: 50%;
 }
 
-label {
+.lb {
   color:white;
   font-size: 40px;
   margin: 16px 0px;
@@ -91,3 +91,8 @@ label {
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
 
+.lb1{
+  color:white;
+  font-size:20px;
+  margin: 16px 0px;
+}
