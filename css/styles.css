@@ -1,0 +1,20 @@
+/* CSS Reset */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  img {
+    height: 100%;
+  }
+  
+
+/* Button */
+
+/* 
+.btn:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+} 
+ */
