@@ -44,6 +44,29 @@ html{
   height:40vh;
 }
 
-.input{
+/* input{
+   color:black;
+   background-color:rgb(247, 240, 233);
+   border-radius:20%;
+   
+}
 
+label{
+  font-size: larger;
+} */
+
+.inputs{
+  padding: 15px;
+  font-size: 16px;
+  margin-top: 20px;
+  cursor: pointer;
+  border: 1px solid;
+  border-radius: 5px;
+  width: 50%;
+}
+
+label {
+  color:white;
+  font-size: 40px;
+  margin: 16px 0px;
 }
