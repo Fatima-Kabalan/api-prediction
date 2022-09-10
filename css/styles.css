@@ -1,20 +1,43 @@
 /* CSS Reset */
-
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-  
-  img {
-    height: 100%;
-  }
-  
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
-/* Button */
+img {
+  height: 100%;
+}
 
-/* 
-.btn:hover {
-    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
-} 
- */
+/* header */
+h1{
+  background-color:rgb(253, 223, 211);
+  padding:40px;
+  color:rgb(131, 73, 121);
+  text-transform: uppercase; 
+}
+
+
+/* Utilities */
+
+html{
+  background-color:rgb(206, 170, 154)
+}
+
+.flex{
+   display:flex;
+   justify-content:space-around;
+   flex-direction:column;
+}
+
+/* body */
+
+.container {
+  padding: 0 12vh;
+  width: 100%;
+  display:inline-block;
+}
+
+.dog{
+  width:30%;
+}
